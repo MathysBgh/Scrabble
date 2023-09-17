@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1607301738 source:c:\users\alexl\onedrive - groupe inseec (poce)\informatique\projet scrabble\le projet de la muerte\main.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+
+1607301426 c:\users\alexl\onedrive - groupe inseec (poce)\informatique\projet scrabble\le projet de la muerte\header.h
+
+1607302285 source:c:\users\alexl\onedrive - groupe inseec (poce)\informatique\projet scrabble\le projet de la muerte\lancement_partie.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1607305084 source:c:\users\alexl\onedrive - groupe inseec (poce)\informatique\projet scrabble\le projet de la muerte\placement_mots.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1607297972 source:c:\users\alexl\onedrive - groupe inseec (poce)\informatique\projet scrabble\le projet de la muerte\couleurs et dico.c
+	"header.h"
+	<Windows.h>
+
+1607297972 source:c:\users\mathy\onedrive\bureau\le projet de la muerte\couleurs et dico.c
+	"header.h"
+	<Windows.h>
+
+1607301426 c:\users\mathy\onedrive\bureau\le projet de la muerte\header.h
+
+1636032180 source:c:\users\mathy\onedrive\bureau\le projet de la muerte\main.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+
+1635865483 source:c:\users\mathy\onedrive\bureau\le projet de la muerte\lancement_partie.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1607305361 source:c:\users\mathy\onedrive\bureau\le projet de la muerte\placement_mots.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
